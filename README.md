@@ -12,6 +12,8 @@ Resumo do decreto de 2008:
 
 Toda a matemática está na classe `HorarioVerao.cs` que pode facilmente ser utilizada em outros programa. Fiquem a vontade em copiar e usar.
 
+Projeto Windows Forms em C# no Visual Studio 2017.
+
 P.S.:É sabido que em 2019 o decreto acima foi Revogado pelo Decreto nº 9.772, de 2019. Mas fica ai o código a quem possa interessar.
 http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D9772.htm#art2
 
